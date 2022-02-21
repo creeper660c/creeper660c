@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @creeper660c
+- 👋 Hi, I’m @scrythe
 - 👀 I’m interested in math, physics and programming
-- 🌱 I’m currently learning javascript and php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me creeper660c@gmail.com
+- 🌱 I’m currently learning javascript (together with typescript, angular, node js, express js, electron js) python and php
+- 💞️ I’m looking to collaborate no one (yet)...
+- 📫 How to reach me scrythepvp@gmail.com
 
 <!---
 creeper660c/creeper660c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
